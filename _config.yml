@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Ryan Donnelly
 title: IT Administrator
-email: donnelly.n.ryan@gmail.com
-website: www.donnelly-ryan.dev
+#email: donnelly.n.ryan@gmail.com
+#website: www.donnelly-ryan.dev
 
 # Dark Mode (true/false/never)
 darkmode: true
