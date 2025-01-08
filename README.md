@@ -1,6 +1,7 @@
 # Ryan Donnelly
 ## Education
 ### Ball State University
+![logo](images/BSU-logo-horiz-WHITE.png)
 ##### M.S., Computer Science
 In Progress
 
@@ -44,6 +45,7 @@ In Progress
 - Install required software onto district devices and work with users and the Director of Technology to coordinate and facilitate their software needs.
 
 ## Awards
+![ribbons](images/usmc_rack.png)
 - Navy and Marine Corps Achievement Medal
 - Armed Forces Services Medal
 - Armed Forces Reserve Medal (with mobilization “M” device)
