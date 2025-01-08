@@ -6,13 +6,11 @@ In Progress
 
 ### Bethany College (W.V.)
 ##### BS, Math and Computer Science
+
 ## Work Experience
 
 ### RIZZO International
 #### IT Administrator | Sep. 2023 - Present
-
-
-
 
 
 ### United States Marine Corps
@@ -41,6 +39,15 @@ In Progress
 - Assist in the training of teachers using the synchronous classroom technology which provides students learning virtually as close to in person learning experience as possible.
 - Diagnose, troubleshoot, and repair district technology resources.
 - Install required software onto district devices and work with users and the Director of Technology to coordinate and facilitate their software needs.
+
+## Additional Education and Certification
+- USMC Sergeant Leadership Course (3.7 GPA) – MCAS Miramar, CA
+- Engineer Equipment Operator School (Graduated 1st in class) – USMC Detachment, Fort Leonard Wood, MO
+- USATF Level 1 Certified Coach
+- National Federation of High School Sports Level 3 Certified Coach
+- National Federation of High School Sports Certified Interscholastic Coach
+
+
 
 ## Awards
 - Navy and Marine Corps Achievement Medal
