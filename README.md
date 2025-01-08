@@ -1,7 +1,7 @@
 # Ryan Donnelly
 ## Education
 ### Ball State University
-![logo](images/BSU-logo-horiz-WHITE.png)
+![logo](images/BSU-logo-horiz-Red-RGB.png)
 ##### M.S., Computer Science
 In Progress
 
