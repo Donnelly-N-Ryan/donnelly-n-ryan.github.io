@@ -11,6 +11,11 @@ In Progress
 
 ### RIZZO International
 #### IT Administrator | Sep. 2023 - Present
+##### DevOps Experience
+- Used GitHub Actions, Self-Hosted GitHub Runners to automate testing and deploying applications
+
+##### Development Experience
+- built cross-platform application using Flutter to simplify data gathering for engineer field projects
 
 
 
